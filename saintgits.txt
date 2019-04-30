@@ -1,0 +1,6 @@
+<html>
+<title>saintgits college of engineering</title>
+<head><B>SAINTGITS GROUP OF INSTITUTION</B></head>
+<body background="C:\Users\install\Downloads\14902_SAINTGITS.jpg" width="184" height="152">
+</body>
+</html>
